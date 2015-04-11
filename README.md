@@ -1,4 +1,4 @@
-fakebookmeteor
+CampusLinks
 ==============
 To fix this, we added Iron Router with
 meteor add iron:router
